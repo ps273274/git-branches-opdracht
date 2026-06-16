@@ -1,0 +1,7 @@
+Wat ik geleerd heb:
+- Git init
+- Git add
+- Git commit
+
+Wat ik nog wil leren:
+- Rebase gebruiken
