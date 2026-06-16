@@ -1,0 +1,7 @@
+Wat ik geleerd heb:
+- Branches maken
+- Mergen
+- Pushen naar GitHub
+
+Wat ik nog wil leren:
+- Cherry-pick gebruiken
